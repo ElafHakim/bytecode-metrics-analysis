@@ -1,6 +1,6 @@
 package fixtures;
 
-public class DACAnalysisTest2 {
+public class DacFixture2 {
 	public boolean b = true;
 	public char c ;
 	public static byte by;
